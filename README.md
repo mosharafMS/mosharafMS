@@ -1,10 +1,11 @@
 # Mohamed **sharaf**
 Mohamed@dataplatforms.ca · https://linkedin.com/in/mosharafMS · [blog.dataplatforms.ca]()
+
 20+ years of IT experience in engineering, consulting, and solution architecture. 15+ years at Microsoft helping hundreds of customers achieve their goals. 8+ years of cloud experience in engineering and solution architecture specialized in Microsoft Azure cloud. Certified in 10s of Azure certifications over the years (check the accreditation)
 
 # Experience – last 10 years
 
-|
+
 ### 2019-02 – current
 
 ## Sr. Cloud Solution Architect – Data & AI, **Microsoft Canada**
