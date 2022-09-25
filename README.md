@@ -111,5 +111,5 @@ In my capacity as a Cloud Solution Architect for Microsoft, I influenced most of
 [https://learn.microsoft.com/en-us/users/mosharaf/transcript/73kk1bk5yxywz0g](https://learn.microsoft.com/en-us/users/mosharaf/transcript/73kk1bk5yxywz0g)
 
 - Recommendations: [https://www.linkedin.com/in/mosharafms/details/recommendations/](https://www.linkedin.com/in/mosharafms/details/recommendations/)
-- Government of Canada secret clearance
+
 
