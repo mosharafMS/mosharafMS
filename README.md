@@ -7,7 +7,7 @@
 
 **Web** : [dataplatforms.ca](https://dataplatforms.ca/)
 
-**blog** : [blog.dataplatforms.ca](../blog.dataplatforms.ca)
+**blog** : [dataplatforms.ca/blog](dataplatforms.ca/blog)
 
 **YouTube** : [Cloud Safari - YouTube](https://www.youtube.com/playlist?list=PLB4TCZKa_rG0rKEs2ndiRx_nm4WNMzEOV)
 
