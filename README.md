@@ -3,10 +3,6 @@
 
 20+ years of IT experience in engineering, consulting, and solution architecture. 15+ years at Microsoft helping hundreds of customers achieve their goals. 8+ years of cloud experience in engineering and solution architecture specialized in Microsoft Azure cloud. Certified in 10s of Azure certifications over the years (check the accreditation)
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mosharafms" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/mosharafms?trk=profile-badge">Mohamed Sharaf</a></div>
-
-
-
 # Social media
 
 **Web** : [dataplatforms.ca](https://dataplatforms.ca/)
