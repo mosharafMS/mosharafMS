@@ -1,5 +1,5 @@
 # Mohamed **Sharaf**
-[LinkedIn](https://linkedin.com/in/mosharafMS) · [dataplatforms.ca/blog](dataplatforms.ca/blog)
+[LinkedIn](https://linkedin.com/in/mosharafMS) · [dataplatforms.ca/blog](https://dataplatforms.ca/blog)
 
 20+ years of IT experience in engineering, consulting, and solution architecture. 15+ years at Microsoft helping hundreds of customers achieve their goals. 8+ years of cloud experience in engineering and solution architecture specialized in Microsoft Azure cloud. Certified in 10s of Azure certifications over the years (check the accreditation)
 
@@ -7,7 +7,7 @@
 
 **Web** : [dataplatforms.ca](https://dataplatforms.ca/)
 
-**blog** : [dataplatforms.ca/blog](dataplatforms.ca/blog)
+**blog** : [dataplatforms.ca/blog](https://dataplatforms.ca/blog)
 
 **YouTube** : [Cloud Safari - YouTube](https://www.youtube.com/playlist?list=PLB4TCZKa_rG0rKEs2ndiRx_nm4WNMzEOV)
 
